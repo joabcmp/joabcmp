@@ -1,16 +1,17 @@
-### Hi there 👋
+###👋 Olá! Sou Joab Cesar, estudante de Ciência da Computação na UFCG.
 
-<!--
-**joabcmp/joabcmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###💻 Minhas Habilidades:
+- Java
+- Python
+- Spring Boot
+- Visão Computacional
+- Redes Neurais
 
-Here are some ideas to get you started:
+###🚀 Apaixonado por programação e desenvolvimento de software, estou em busca de oportunidades para aplicar minhas habilidades em projetos desafiadores e aprender ainda mais sobre Ciência da Computação e suas aplicações no mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🔭 Atualmente, estou focado em aprimorar meus conhecimentos em Visão Computacional e Redes Neurais, explorando maneiras de resolver problemas complexos com aprendizado de máquina e processamento de imagens.
+
+###💡 Além disso, sou entusiasta de projetos open-source e estou sempre procurando colaborar em iniciativas interessantes.
+
+###📫 Entre em contato comigo através do e-mail: [joabcmp@gmail.com]. 
+Ou Linkedin - [https://www.linkedin.com/in/joab-cesar-2224381b8/].
