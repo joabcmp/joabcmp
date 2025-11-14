@@ -1,4 +1,4 @@
-👋 Olá! Sou Joab Cesar, estudante de Ciência da Computação na UFCG.
+👋 Olá! Sou Joab Cesar, bacharel em Ciência da Computação na UFCG.
 
 💻 Minhas Habilidades:
 - Java
