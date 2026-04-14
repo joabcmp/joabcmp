@@ -11,8 +11,6 @@
 
 🔭 Atualmente, estou focado em aprimorar meus conhecimentos em Visão Computacional e Redes Neurais, explorando maneiras de resolver problemas complexos com aprendizado de máquina e processamento de imagens.
 
-💡 Além disso, sou entusiasta de projetos open-source e estou sempre procurando colaborar em iniciativas interessantes.
-
 📫 Entre em contato comigo através do e-mail: [joabcmp@gmail.com].
 
 Ou Linkedin - [https://www.linkedin.com/in/joab-cesar-2224381b8/].
