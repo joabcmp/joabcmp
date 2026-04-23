@@ -74,11 +74,6 @@ Projeto desenvolvido a partir de dados reais, com foco em modelagem e previsão 
 📄 [Documentação completa](https://docs.google.com/document/d/11Lvws3mbBpBTBi7csV5z2Yqlq2DHohomo3ytQT98NOg/edit?usp=sharing)
 
 ---
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joabcmp&show_icons=true&theme=github_dark)
-
----
 
 ## 📫 Contato
 
